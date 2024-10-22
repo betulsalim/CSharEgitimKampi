@@ -78,11 +78,11 @@
 <hr>
 <h3>Öğrendiklerim:</h3>
 <br>
-https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png">
 <br>
 <img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-17.png">
 <br><br>
-![alt text](image-18.png)
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-18.png">
 <br><br>
 <hr>
 <h2> Ders: 06_Arrays </h2>
@@ -94,13 +94,13 @@ https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png
 <li> Kllanıcıdan Değer Alma </li>
 </ul>
 <br>
-![alt text](image-19.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-19.png">
 <br><br>
-![alt text](image-20.png)
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-20.png">
 <br><br>
-![alt text](image-21.png)
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-21.png">
 <br><br>
-![alt text](image-22.png)
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-22.png">
 <br>
 <hr>
 <h2> Ders: 07_ForEach </h2>
@@ -110,7 +110,7 @@ https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png
 <li> ForEach Loop </li>
 </ul>
 <br><br>
-![alt text](image-23.png)
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-23.png">
 <br><br>
 ![alt text](image-24.png)
 <br><br>
