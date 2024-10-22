@@ -9,13 +9,13 @@
 <li>int number; -- int Değişkenler </li>
 </ul>
 
-![alt text](image.png)
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image.png">
 <br> <br>
-![](image-1.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-1.png">
 <br> <br>
-![](image-2.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-2.png">
 <br> <br>
-![alt text](image-3.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-3.png">
 <br> <br>
 <br>
 <hr>
@@ -31,9 +31,9 @@
 <li> char gender; gender = char.Parse(Console.ReadLine()); -- Klavyeden char Veri Girişi </li>
 </ul>
 <br><br>
-![alt text](image-4.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-4.png">
 <br><br>
-![alt text](image-5.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-5.png">
 <br><br>
 <hr>
 <h2> Ders: 03_MakingDecision </h2>
@@ -46,15 +46,15 @@
 </ul>
 
 <br><br>
-![alt text](image-6.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-6.png">
 <br><br>
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-7.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-8.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-9.png">
 <br><br><br>
-![alt text](image-10.png)
-![alt text](image-11.png)
-![](image-12.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-10.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-11.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-12.png">
 <br><br><br>
 <hr>
 <h2> Ders: 04_Loops </h2>
@@ -67,22 +67,22 @@
 </ul>
 
 <br><br>
-![alt text](image-13.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-13.png">
 <br><br>
-![alt text](image-14.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-14.png">
 <br><br>
-![alt text](image-15.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-15.png">
 <br><br>
 <hr>
 <h2> Ders : 05_LoopsWithStars </h2>
 <hr>
 <h3>Öğrendiklerim:</h3>
 <br>
-<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png">
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-16.png">
 <br>
-<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-17.png">
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-17.png">
 <br><br>
-<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-18.png">
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-18.png">
 <br><br>
 <hr>
 <h2> Ders: 06_Arrays </h2>
@@ -94,13 +94,13 @@
 <li> Kllanıcıdan Değer Alma </li>
 </ul>
 <br>
-<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-19.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-19.png">
 <br><br>
-<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-20.png">
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-20.png">
 <br><br>
-<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-21.png">
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-21.png">
 <br><br>
-<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-22.png">
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-22.png">
 <br>
 <hr>
 <h2> Ders: 07_ForEach </h2>
@@ -110,21 +110,23 @@
 <li> ForEach Loop </li>
 </ul>
 <br><br>
-<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-23.png">
+<img src= "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-23.png">
 <br><br>
-![alt text](image-24.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-24.png">
 <br><br>
 --Bu Kod Hocamızdan önce benim yazdığım kod.
-![alt text](image-25.png)
-![alt text](image-26.png)
+<br>
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-25.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-26.png">
 <br>
 --Bu Çalışmış Hali
-![alt text](image-27.png)
-<br><br>
-![alt text](image-28.png)
-![alt text](image-29.png)
 <br>
-![alt text](image-30.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-27.png">
+<br><br>
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-28.png">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-29.png">
+<br>
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-30.png">
 <br><br>
 <hr>
 <h2> Ders: 08_Methods </h2>
@@ -137,12 +139,12 @@
 <li> Parametreli metotlar </li>
 </ul>
 <br>
-<img src = "![alt text](image-31.png)">
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-31.png">
 
 <br><br>
-![alt text](image-32.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-32.png">
 <br><br>
-![alt text](image-33.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-33.png">
 <br><br>
 <hr>
 <h2> Ders: 09_DatabaseProject </h2>
@@ -159,30 +161,30 @@
 </ul>
 <br><br>
 <h5>Database Oluşturma</h5>
-![alt text](image-34.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-34.png">
 <br>
 <h5>Tablo Oluşturma</h5>
-![alt text](image-35.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-35.png">
 <br>
 <h5>Tablolara Sütun Ekleme </h5>
-![alt text](image-38.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-38.png">
 <br>
 <h5>Tablolarımıza Satır Ekleme </h5>
-![alt text](image-39.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-39.png">
 <br>
 <h5>SQL Sorguları için Query Oluşturma </h5>
-![alt text](image-36.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-36.png">
 <br>
 <h5>SQL Sorguları </h5>
-![alt text](image-37.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-37.png">
 <br>
 <h5>C# Kodumuz</h5>
-![alt text](image-40.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-40.png">
 <br>
 <h5>Kodumuzun SQL kısmı </h5>
-![alt text](image-41.png)
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-41.png">
 <br><br>
 <h5>Kodumuzun Çalışmış Hali</h5>
-![alt text](image-42.png)
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-42.png">
 
 
