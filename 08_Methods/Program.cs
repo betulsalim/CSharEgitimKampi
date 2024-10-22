@@ -128,22 +128,22 @@ namespace _08_Methods
 
             #region Exam Result Ornek
 
-            //string ExamResult(string studentName, string studentSurname,int exam1,int exam2, int exam3)
-            //{
-            //    int result = (exam1 + exam2 + exam3) / 3;
+            string ExamResult(string studentName, string studentSurname,int exam1,int exam2, int exam3)
+            {
+                int result = (exam1 + exam2 + exam3) / 3;
 
-            //    if (result >= 50)
-            //    {
-            //        return studentName + " " + studentSurname + " Sınavı geçti. Ortalama: " + result ;
-            //    }
-            //    else
-            //    {
-            //        return studentName + " " + studentSurname + " Sınavı geçemedi. Ortalama: " + result;
-            //    }
-            //}
-            //Console.WriteLine(ExamResult("Ali", "Yıldız", 25, 41, 85));
-            //Console.WriteLine(ExamResult("Ayşe", "Yılmaz", 36, 88, 33));
-            //Console.WriteLine(ExamResult("Veli", "Bozkurt", 25, 41, 75));
+                if (result >= 50)
+                {
+                    return studentName + " " + studentSurname + " Sınavı geçti. Ortalama: " + result ;
+                }
+                else
+                {
+                    return studentName + " " + studentSurname + " Sınavı geçemedi. Ortalama: " + result;
+                }
+            }
+            Console.WriteLine(ExamResult("Ali", "Yıldız", 25, 41, 85));
+            Console.WriteLine(ExamResult("Ayşe", "Yılmaz", 36, 88, 33));
+            Console.WriteLine(ExamResult("Veli", "Bozkurt", 25, 41, 75));
 
 
             #endregion

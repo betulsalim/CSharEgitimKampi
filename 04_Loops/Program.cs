@@ -164,9 +164,6 @@ namespace _04_Loops
             //number2 = (number / 10) / 10;
             //number3 = (number / 10) % 10;
 
-
-            
-
             //for (int i = 0; i<= number1; i++)
             //{
             //    for (int j = 0; j<= number2; j++)

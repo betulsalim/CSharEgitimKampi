@@ -111,69 +111,69 @@ namespace _07_ForEach
 
             //}
 
-            //int numberOfStudents, ExamGrade;
-            //double sumGrade = 0, averageGrade;
-            //string studentName;
+            int numberOfStudents, ExamGrade;
+            double sumGrade = 0, averageGrade;
+            string studentName;
             
 
 
-            //Console.Write("***** C# Eğitim Kampı Sınav Uygulaması *****");
-            //Console.WriteLine();
-            //Console.WriteLine();
+            Console.Write("***** C# Eğitim Kampı Sınav Uygulaması *****");
+            Console.WriteLine();
+            Console.WriteLine();
 
-            //Console.WriteLine("-----------------------------");
-            //Console.WriteLine("Sınıfınızda Kaç Öğrenci var?");
-            //numberOfStudents = int.Parse(Console.ReadLine());
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("Sınıfınızda Kaç Öğrenci var?");
+            numberOfStudents = int.Parse(Console.ReadLine());
 
-            //string[] studentNames = new string[numberOfStudents];
-            //double[] studentExamAvg = new double[numberOfStudents];
+            string[] studentNames = new string[numberOfStudents];
+            double[] studentExamAvg = new double[numberOfStudents];
 
-            //for (int i = 0; i < numberOfStudents; i++)
-            //{
-            //    Console.Write($"{i + 1}. öğrencinin ismini giriniz:  ");
-            //    studentNames[i] = Console.ReadLine();
+            for (int i = 0; i < numberOfStudents; i++)
+            {
+                Console.Write($"{i + 1}. öğrencinin ismini giriniz:  ");
+                studentNames[i] = Console.ReadLine();
 
 
-            //    for (int j = 0; j < 3; j++)
-            //    {
-            //        Console.Write($"{studentNames[i]} adlı öğrencinin {j + 1}. sınav sonucunu giriniz: ");
-            //        double value = double.Parse(Console.ReadLine());
-            //        sumGrade += value;
-            //    }
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"{studentNames[i]} adlı öğrencinin {j + 1}. sınav sonucunu giriniz: ");
+                    double value = double.Parse(Console.ReadLine());
+                    sumGrade += value;
+                }
 
-            //    averageGrade = sumGrade / 3;
-            //    studentExamAvg[i] = averageGrade;
-            //    sumGrade = 0;
+                averageGrade = sumGrade / 3;
+                studentExamAvg[i] = averageGrade;
+                sumGrade = 0;
 
-            //}
+            }
 
-            //for (int i = 0;i < numberOfStudents;i++)
-            //{
-            //    Console.WriteLine($"{studentNames[i]} adlı öğrencinin ortalaması: {studentExamAvg[i]}");
+            for (int i = 0;i < numberOfStudents;i++)
+            {
+                Console.WriteLine($"{studentNames[i]} adlı öğrencinin ortalaması: {studentExamAvg[i]}");
 
-            //    if (studentExamAvg[i] < 50)
-            //    {
-            //        double difference = 50 - studentExamAvg[i];
-            //        Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla kalmıştır. Geçmesi için {difference} kadar puana ihtiyacı vardır.");
-            //    }
-            //    else if (50 <= studentExamAvg[i] && studentExamAvg[i] < 70)
-            //    {
-            //        double difference = 70 - studentExamAvg[i];
-            //        Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla geçmiştir. Teşekkür Belgesi için {difference} kadar puana ihtiyacı vardır.");
-            //    }
-            //    else if (70 <= studentExamAvg[i] && studentExamAvg[i] < 85)
-            //    {
-            //        double difference = 85 - studentExamAvg[i];
-            //        Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla Geçmiştir. Takdir Belgesi için {difference} kadar puana ihtiyacı vardır.");
-            //    }
-            //    else if (85 <= studentExamAvg[i] && studentExamAvg[i] <= 100)
-            //    {
+                if (studentExamAvg[i] < 50)
+                {
+                    double difference = 50 - studentExamAvg[i];
+                    Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla kalmıştır. Geçmesi için {difference} kadar puana ihtiyacı vardır.");
+                }
+                else if (50 <= studentExamAvg[i] && studentExamAvg[i] < 70)
+                {
+                    double difference = 70 - studentExamAvg[i];
+                    Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla geçmiştir. Teşekkür Belgesi için {difference} kadar puana ihtiyacı vardır.");
+                }
+                else if (70 <= studentExamAvg[i] && studentExamAvg[i] < 85)
+                {
+                    double difference = 85 - studentExamAvg[i];
+                    Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla Geçmiştir. Takdir Belgesi için {difference} kadar puana ihtiyacı vardır.");
+                }
+                else if (85 <= studentExamAvg[i] && studentExamAvg[i] <= 100)
+                {
                     
-            //        Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla Geçmiştir. Takdir Belgesi Kazanmıştır");
-            //    }
+                    Console.WriteLine($"{studentNames[i]} öğrencimiz sınavdan {studentExamAvg[i]} notuyla Geçmiştir. Takdir Belgesi Kazanmıştır");
+                }
                 
 
-            //}
+            }
 
 
 
