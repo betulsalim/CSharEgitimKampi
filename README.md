@@ -78,7 +78,7 @@
 <hr>
 <h3>Öğrendiklerim:</h3>
 <br>
-![alt text](image-16.png)
+https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png
 <br>
 ![alt text](image-17.png)
 <br><br>
