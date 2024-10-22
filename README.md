@@ -1,7 +1,7 @@
 # CSharpEgitimKampi
 
-<h2>Proje: 1 </h2>
-<h4>Öğrendiklerim:</h4>
+<h2>Ders: 01_MainSubjects</h2>
+<h3>Öğrendiklerim:</h3>
 <ul>
 <li>Console.WriteLine(); / Console.Write(); -- Yazdırma Komutları</li>
 <li>string name; -- String Değişkenler</li>
@@ -16,3 +16,7 @@
 <br> <br>
 ![alt text](image-3.png)
 <br> <br>
+<br>
+<hr>
+<h2> Ders: 02_Variables </h2>
+<hr>
