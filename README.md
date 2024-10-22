@@ -188,3 +188,15 @@
 <img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/image-42.png">
 
 
+<br><br>
+<hr>
+<h3> İlk 9 derste öncelikle C# taki syntax yapılarla başladık yani console a nasıl bir şey yazdırılır, değişkenler nelerdir, metinsel ifadeler ve sayılsal iafederle ne gibi farklılıklar vardır.
+<br>
+Sonrasında if - else ve switch - case yapılarına geçtik.
+<br>
+For Loop ve While Loop öğrendik.
+<br>
+Diziler ve Metodları gördük ve bunları nasıl kod üzerinde işleyebileceğimizi gördük.
+<br>
+En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve Database nasıl oluşturulur, C# ile SQL arasındaki köprü nasıl oluşturulur gibi konuları işledik.
+</h3>
