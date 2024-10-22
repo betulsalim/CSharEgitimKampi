@@ -80,7 +80,7 @@
 <br>
 https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-16.png
 <br>
-![alt text](image-17.png)
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/image-17.png">
 <br><br>
 ![alt text](image-18.png)
 <br><br>
