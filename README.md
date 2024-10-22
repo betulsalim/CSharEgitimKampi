@@ -137,7 +137,8 @@
 <li> Parametreli metotlar </li>
 </ul>
 <br>
-![alt text](image-31.png)
+<img src = "![alt text](image-31.png)">
+
 <br><br>
 ![alt text](image-32.png)
 <br><br>
