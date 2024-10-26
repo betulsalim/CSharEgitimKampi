@@ -217,3 +217,12 @@ En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve 
 <br><br>
 <img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/urunEkleme.png">
 <br><br>
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/urunListeleme.png">
+<br><br>
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/urunSilme.png">
+<br><br>
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/urunGuncelleme.png">
+<br>
+<hr>
+<h4>SQL de yaptığımız ürün ekleme, ürün silme, ürün listeleme ve ürün güncelleme işlemlerini nasıl C# kod üzerinden yapacağımızı öğrendik.
+</h4>
