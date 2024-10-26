@@ -215,3 +215,5 @@ En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve 
 </ul>
 
 <br><br>
+<img src = "https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/urunEkleme.png">
+<br><br>
