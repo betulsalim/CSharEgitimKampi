@@ -200,3 +200,18 @@ Diziler ve Metodları gördük ve bunları nasıl kod üzerinde işleyebileceği
 <br><br>
 En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve Database nasıl oluşturulur, C# ile SQL arasındaki köprü nasıl oluşturulur gibi konuları işledik.
 </h4>
+
+<br><br>
+<hr>
+<h2> Ders: 10_DatabaseCrud </h2>
+<hr>
+<h3>Öğrenciklerim:</h3>
+<ul>
+<li> <strong>Crud-->Creat-->Read-->Update-->Delete </strong></li>
+<li> Ürün Ekleme </li>
+<li> Ürün Listeleme </li>
+<li> Ürün Silme </li>
+<li> Ürün Güncelleme </li>
+</ul>
+
+<br><br>
