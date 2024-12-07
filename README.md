@@ -131,7 +131,7 @@
 <hr>
 <h2> Ders: 08_Methods </h2>
 <hr>
-<h3>Öğrenciklerim:</h3>
+<h3>Öğrendiklerim:</h3>
 <ul>
 <li> void -- geriye değer döndürmeyen metotlar </li>
 <li> Metotların Nasıl Oluşturuldukları </li>
@@ -149,7 +149,7 @@
 <hr>
 <h2> Ders: 09_DatabaseProject </h2>
 <hr>
-<h3>Öğrenciklerim:</h3>
+<h3>Öğrendiklerim:</h3>
 <ul>
 <li> Database nasıl kurulur </li>
 <li> Tablo Nasıl oluşturulur </li>
@@ -205,7 +205,7 @@ En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve 
 <hr>
 <h2> Ders: 10_DatabaseCrud </h2>
 <hr>
-<h3>Öğrenciklerim:</h3>
+<h3>Öğrendiklerim:</h3>
 <ul>
 <li> <strong>Crud-->Creat-->Read-->Update-->Delete </strong></li>
 <li> Ürün Ekleme </li>
@@ -226,3 +226,16 @@ En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve 
 <hr>
 <h4>SQL de yaptığımız ürün ekleme, ürün silme, ürün listeleme ve ürün güncelleme işlemlerini nasıl C# kod üzerinden yapacağımızı öğrendik.
 </h4>
+
+<hr>
+<h2> CSharpEgitimKampi301 </h2>
+<hr>
+<h3>Öğrendiklerim:</h3>
+<ul>
+<li> <strong>Katmanlar: BusinessLayer - DataAccesLayer - EntityLayer - PresentationLayer </strong></li>
+<li> Interface </li>
+<li> LinQ Sorgular </li>
+<li> DB First </li>
+</ul>
+
+<br><br>
