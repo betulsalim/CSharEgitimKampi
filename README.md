@@ -239,3 +239,65 @@ En son da SQL Bağlantısı nasıl yapılır, SQL Sorguları nelerdir, Tablo ve 
 </ul>
 
 <br><br>
+<img src ="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/DataAccesLayer.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/DBFirst.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/DBContext.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/Interface.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/Migrations.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/ders17LinQSorgular.png">
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/linQSorgular.png">
+<br><br>
+
+Bu proje, Entity Framework kullanarak bir veritabanından verileri alan ve çeşitli istatistikleri dinamik olarak görüntüleyen FrmStatistics adlı bir form içerir. Form, özellikle seyahat lokasyonları, kapasiteler, rehberler ve turlar ile ilgili istatistikleri göstermek için tasarlanmıştır.
+
+<h3> Temel Özellikler </h3>
+
+<h5> Dinamik İstatistik Gösterimi: </h5>
+
+Form açıldığında lokasyonlar, turlar ve rehberlere ait istatistiksel veriler yüklenir ve görüntülenir.
+
+<h5> Entity Framework Sorguları: </h5>
+
+Gerekli verilerin veritabanından verimli bir şekilde alınması için LINQ sorguları kullanılmıştır.
+
+<h5> Label Güncellemeleri: </h5>
+
+Form üzerindeki etiketler (label), alınan verileri dinamik olarak günceller.
+
+<h3> LINQ Sorguları Açıklaması </h3>
+
+<strong> En Son Eklenen Ülke
+
+Amaç: En son eklenen ülkeyi bulmak.
+
+Açıklama: En yüksek location_id değerini bulur ve buna karşılık gelen ülke adını alır.
+
+Milano'nun Kapasitesi
+
+Amaç: "Milano" şehrinin kapasitesini göstermek.
+
+Türkiye'nin Ortalama Kapasitesi
+
+Amaç: "Türkiye"deki lokasyonların ortalama kapasitesini hesaplamak.
+
+Roma Gezisi Rehberi
+
+Amaç: "Roma" gezisinin rehberinin adını göstermek.
+
+En Yüksek Kapasiteli Tur
+
+Amaç: En yüksek kapasiteli turu göstermek.
+
+En Pahalı Tur
+
+Amaç: En pahalı turu göstermek.
+
+Ayşegül Çınar'ın Tur Sayısı
+
+Amaç: "Ayşegül Çınar" adlı rehberin gerçekleştirdiği tur sayısını göstermek. </strong>
