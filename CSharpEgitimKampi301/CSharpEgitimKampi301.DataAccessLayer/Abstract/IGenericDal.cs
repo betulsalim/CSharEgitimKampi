@@ -11,7 +11,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
 
         void Insert(T entity);
         void Update(T entity);
-        void Delete(int id);
+        void Delete(T entity);
         List<T> GetAll(); // bütün verileri getirecek olan getAll isimli bir liste
         T GetById(int id);
 
