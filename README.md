@@ -301,3 +301,101 @@ Amaç: En pahalı turu göstermek.
 Ayşegül Çınar'ın Tur Sayısı
 
 Amaç: "Ayşegül Çınar" adlı rehberin gerçekleştirdiği tur sayısını göstermek. </strong>
+
+# CSharpEgitimKampi501
+<hr>
+<h3>Öğrendiklerim:</h3>
+<ul>
+<li> <strong>Gelişmiş OOP Kavramları:</strong> Kalıtım, Polimorfizm, Soyutlama ve Arayüzler.</li>
+<li> <strong>Delegeler ve Olaylar:</strong> C#'ta olay tabanlı programlama.</li>
+<li> <strong>LINQ ile Veri Sorgulama:</strong> Veri koleksiyonları üzerinde sorgulama yapma.</li>
+<li> <strong>Asenkron Programlama:</strong> Task ve async/await kullanımı.</li>
+</ul>
+
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/CSharpEgitimKampi501.png">
+<hr>
+<br><br>
+
+
+# CSharpEgitimKampi501
+<hr>
+<h3>Öğrendiklerim:</h3>
+<ul>
+<li> <strong>Web Uygulamaları Geliştirme:</strong> ASP.NET Core ile web uygulamaları oluşturma.</li>
+<li> <strong>RESTful API Geliştirme:</strong> Web servisleri oluşturma ve tüketme.</li>
+<li> <strong>Veritabanı Yönetimi:</strong> Entity Framework Core ile veritabanı işlemleri.</li>
+<li> <strong>Kimlik Doğrulama ve Yetkilendirme:</strong> ASP.NET Core Identity kullanarak kullanıcı yönetimi.</li>
+</ul>
+
+<br><br>
+<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/CSharpEgitimKampi601.png">
+<br><br>
+
+# 💰 Financial CRM
+
+Financial CRM, kullanıcıların harcamalarını yönetmelerini sağlayan bir finans yönetim sistemidir. Bu sistem, kullanıcıların finansal durumlarını daha iyi anlamalarına ve yönetmelerine yardımcı olmak için çeşitli özellikler sunar. Aşağıda, sistemin temel özellikleri ve işlevleri detaylandırılmıştır.
+
+## 🚀 Özellikler
+
+- **Kullanıcı Girişi:**
+  - Kullanıcı adı ve şifre ile güvenli giriş sistemi.
+  - Kullanıcıların hesaplarını korumak için şifreleme yöntemleri kullanılır.
+  - Şifre sıfırlama ve kullanıcı kaydı gibi ek özellikler de mevcuttur.
+
+- **Harcama Yönetimi:**
+  - Kullanıcılar, harcamalarını ekleyebilir, silebilir ve güncelleyebilir.
+  - Harcamalar, tarih, kategori ve tutar gibi bilgilerle kaydedilir.
+  - Kullanıcılar, harcamalarını grafikler ve raporlar aracılığıyla analiz edebilir.
+
+- **Kategori Yönetimi:**
+  - Harcamaları belirli kategorilere ayırarak analiz etme imkanı.
+  - Kullanıcılar, kendi harcama kategorilerini oluşturabilir ve düzenleyebilir.
+  - Kategoriler, kullanıcıların harcama alışkanlıklarını daha iyi anlamalarına yardımcı olur.
+
+- **Ayarlar:**
+  - Kullanıcı bilgileri ve şifre güncelleme özelliği.
+  - Kullanıcılar, profil bilgilerini güncelleyebilir ve uygulama ayarlarını özelleştirebilir.
+
+- **Dashboard:**
+  - Finansal durumu analiz eden genel bakış ekranı.
+  - Kullanıcılar, harcama trendlerini, bütçe durumunu ve tasarruf hedeflerini görebilir.
+  - Dashboard, kullanıcıların finansal hedeflerine ulaşmalarına yardımcı olacak öneriler sunar.
+
+## 📂 Proje Dosya Yapısı
+
+- `FrmLogin.cs` → Kullanıcı giriş ekranı ve doğrulama işlemleri.
+- `FrmCategories.cs` → Harcama kategorilerini yönetme ekranı.
+- `FrmSettings.cs` → Kullanıcı ayarları ve bilgilerini yönetme ekranı.
+
+## 🔧 Kurulum ve Kullanım
+
+1. **Projeyi klonlayın:**
+   ```bash
+   git clone https://github.com/betulsalim/CSharEgitimKampi.git
+   ```
+2. **Visual Studio ile açın ve `FinancialCrm` projesini çalıştırın.**
+   - Proje açıldığında, gerekli NuGet paketlerinin yüklü olduğundan emin olun.
+3. **Veritabanı bağlantısını kontrol edin.**
+   - `appsettings.json` dosyasında veritabanı bağlantı dizesini güncelleyin.
+4. **Programı başlatın ve giriş yapın.**
+   - Kullanıcı adı ve şifre ile giriş yaptıktan sonra, harcama yönetimi ve diğer özellikleri kullanmaya başlayabilirsiniz.
+
+## 🛠 Teknolojiler
+
+- **C# & WinForms** - Arayüz ve iş mantığı için.
+- **Entity Framework** - Veritabanı işlemleri için.
+- **SQL Server** - Veritabanı yönetimi için.
+
+## 📌 Geliştirme
+
+- Yeni özellikler ve güncellemeler eklemek için **pull request** gönderebilirsiniz.
+- Sorularınız için **issue** açabilirsiniz.
+
+## 👨‍💻 Geliştirici
+
+Bu proje [Betül Salim](https://github.com/betulsalim) tarafından geliştirilmiştir.
+
+---
+
+📢 **Lisans:** Bu proje MIT Lisansı altında sunulmaktadır.
