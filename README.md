@@ -313,12 +313,12 @@ Amaç: "Ayşegül Çınar" adlı rehberin gerçekleştirdiği tur sayısını g�
 </ul>
 
 <br><br>
-<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/CSharpEgitimKampi501.png">
+
 <hr>
 <br><br>
 
 
-# CSharpEgitimKampi501
+# CSharpEgitimKampi601
 <hr>
 <h3>Öğrendiklerim:</h3>
 <ul>
@@ -329,7 +329,7 @@ Amaç: "Ayşegül Çınar" adlı rehberin gerçekleştirdiği tur sayısını g�
 </ul>
 
 <br><br>
-<img src="https://github.com/betulsalim/CSharEgitimKampi/blob/main/images/CSharpEgitimKampi601.png">
+
 <br><br>
 
 # 💰 Financial CRM
